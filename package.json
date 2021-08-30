@@ -2,7 +2,7 @@
   "name": "appgif",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eljoel17.github.io/searchgif",
+  "homepage": "https://eljoel17.github.io/GifExpert",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
